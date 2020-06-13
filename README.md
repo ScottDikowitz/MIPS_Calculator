@@ -7,5 +7,5 @@ This is a basic scientific calculator written in MIPS assembly language. Handles
 ### Language
 * MIPS assembly language
 
-### Testing
-* SPIM (Examining output running program simulations)
+### Running
+* SPIM
